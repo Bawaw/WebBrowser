@@ -1,0 +1,9 @@
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.browser.resources
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.pdb
